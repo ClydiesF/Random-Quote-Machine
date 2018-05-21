@@ -1,0 +1,19 @@
+/** style for this sheet will go here will just  had  astyle for the backgroufnd of the image**/
+
+.background {
+    background-color: green;
+    color: whitesmoke;
+
+}
+
+
+
+#quoteBox {
+    font-family: 'Lobster', cursive;
+    margin: 50px;
+    color:black;
+}
+
+.title {
+    font-family: 'Abril Fatface', cursive;
+}
